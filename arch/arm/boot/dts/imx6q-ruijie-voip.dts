@@ -13,7 +13,7 @@
 /dts-v1/;
 
 #include "imx6q.dtsi"
-#include "imx6qdl-ruijie-sabresd.dtsi"
+#include "imx6qdl-ruijie-voip.dtsi"
 
 / {
 	model = "Freescale i.MX6 Quad SABRE Smart Device Board";
