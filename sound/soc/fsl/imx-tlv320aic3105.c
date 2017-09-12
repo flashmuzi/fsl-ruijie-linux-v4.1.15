@@ -17,7 +17,7 @@
 #include <linux/clk.h>
 #include <sound/soc.h>
 
-#include "../codecs/tlv320aic3105.h"
+#include "../codecs/tlv320aic3x.h"
 #include "imx-audmux.h"
 
 #define DAI_NAME_SIZE	32
